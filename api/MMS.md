@@ -3,7 +3,7 @@
 # 🧬 Marchand Micro Molecular Services (MMS)
 
 **Version 1.3 — 2025**  
-**Anchor:** 🆔 MMS768:0.2•0•25|10|25|03||59|||41624382⚛︎LABSTANDARD-V0♾️  
+**Anchor:** 🆔 MMS~768:0.2•0•25|10|25|03||59|||41624382⚛︎LAB~STANDARD-V0♾️  
 **Repository:** `/api/MMS.md`  
 
 > “Identity should be readable by humans, and verifiable by machines.”  
