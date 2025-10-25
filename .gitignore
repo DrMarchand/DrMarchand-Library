@@ -1,0 +1,9 @@
+# macOS / editors
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Python/node/etc (add as needed)
+__pycache__/
+node_modules/
