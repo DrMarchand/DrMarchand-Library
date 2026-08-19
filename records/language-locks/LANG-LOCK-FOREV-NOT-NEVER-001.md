@@ -35,6 +35,16 @@ The phrase may function as recurring symbolic language across DrMarchand’s ∞
 - Exact glyph sequence preserved: yes
 - Authored English gloss preserved: yes
 - Public publication requested by authorized human: yes
+- Public source read back after commit: yes
+- Library custody record read back after commit: yes
 - Technical immutability claim: not asserted
 - Code-law implementation: not established by this record
-- Final custody integrity/readback: pending post-commit verification
+
+## Receipts
+
+- Public OS publication commit: `ffc1f26cc3d6119a8ad93312456893efaf112c69`
+- Initial Library custody commit: `726842fbf299fdbf80a57e38ba5e21e3fc55c515`
+- Public source blob observed after readback: `250bc730c7f16865145ceabf068fa0679e01c907`
+- Initial Library record blob observed after readback: `5e134388434742f9e2f9ca82730323b97bc1bd40`
+
+These receipts prove the observed GitHub artifacts and revisions; they do not independently prove broader runtime or legal states.
