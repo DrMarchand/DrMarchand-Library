@@ -1,4 +1,4 @@
-# 📚 Dr. Marchand’s Library
+# 📚 DrMarchand’s Library
 
 ![MMS₆₉ Seal](https://img.shields.io/badge/Seal-MMS%E2%82%86%E2%82%89(1)%20Active-00C853)
 ![MMS₆₉ Seal](https://img.shields.io/badge/Seal-MMS%E2%82%86%E2%82%89(1)%20Active-00C853)
