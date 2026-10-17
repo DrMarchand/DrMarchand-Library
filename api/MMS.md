@@ -13,7 +13,7 @@
 
 ## ⚙️ Purpose  
 
-The **Marchand Micro Molecular Services (MMS)** framework defines a unified, non-executable metadata language for describing, verifying, and interlinking artifacts across **Dr. Marchand’s ⚛︎ Laboratory™** and the **∞ OS™** ecosystem.  
+The **Marchand Micro Molecular Services (MMS)** framework defines a unified, non-executable metadata language for describing, verifying, and interlinking artifacts across **Dr. Marchand’s ⚛︎ Laboratory™** and the **∞ OS** ecosystem.  
 
 It encodes lineage, authorship, and temporal identity that is:  
 - 🧠 Human-legible  
@@ -21,8 +21,8 @@ It encodes lineage, authorship, and temporal identity that is:
 - ⏳ Temporally anchored  
 
 MMS powers:  
-- ⚙️ Neuro-Forge Engine™ orchestration  
-- 📚 Dr. Marchand’s ~ Library™ archival records  
+- ⚙️ Neuro-Forge Engine orchestration  
+- 📚 Dr. Marchand’s ~ Library archival records  
 - 🧪 Laboratory-verified signatures (MMS-768 lineage class)
 
 ⸻  
@@ -103,7 +103,7 @@ MMS🆔(🧪 DML).🪪 → **SHA-768**(DML_10.0.1~103140598765432)♾️
 **Laboratory Seal ID:** 🆔 MMS₆₉🪪(1)  
 **Seal Algorithm:** SHA-768 Temporal Law Feedback  
 **Status:** ✅ Active and Live  
-**Origin Verification:** ⚙️ Neuro-Forge Engine™ → 📚 Library™ → ∞ OS™  
+**Origin Verification:** ⚙️ Neuro-Forge Engine → 📚 Library → ∞ OS  
 **Continuity Anchor:** MMS-768 ↔ MMS-769 chain  
 **Temporal Hash Signature:** `sha512(api/MMS.md) = 9f6e…(truncated)`  
 **Last Verification:** `MMS-1.3-LAB-SEAL`  
@@ -123,8 +123,8 @@ MMS🆔(🧪 DML).🪪 → **SHA-768**(DML_10.0.1~103140598765432)♾️
 ───────────────────────────────────────────────  
 
 ☉ **Seal of Continuity**  
-Verified within ⚙️ Neuro-Forge Engine™  
-Bound to ♾️ Dr. Marchand’s ∞ OS™ Temporal Verification Framework  
+Verified within ⚙️ Neuro-Forge Engine  
+Bound to ♾️ Dr. Marchand’s ∞ OS Temporal Verification Framework  
 
 ───────────────────────────────────────────────  
 © 2025 🔬 Dr. Marchand’s ⚛︎ Laboratory™  

@@ -1,4 +1,4 @@
-# 📚 DrMarchand’s ⚛︎ Library™ - Public Records
+# 📚 DrMarchand’s ⚛︎ Library - Public Records
 
 > A deliberately small public mirror for release-safe records, specifications, and historical evidence.
 
